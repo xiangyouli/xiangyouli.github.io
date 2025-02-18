@@ -20,15 +20,15 @@ redirect_from:
 
 Hi, there! 👋
 
-I’m **Heyue Li(李禾越)**, currently an third year undergraduate student at the **[School of Computer Science](https://cs.whu.edu.cn/)**, **[Wuhan University (WHU)](https://www.whu.edu.cn/)**, where I am pursuing my Bachelor’s degree in **Computer Science and Technology**.🏫
+I’m **Heyue Li(李禾越)**, currently an third-year undergraduate student at the **[School of Computer Science](https://cs.whu.edu.cn/)**, **[Wuhan University (WHU)](https://www.whu.edu.cn/)**, where I am pursuing my Bachelor’s degree in **Computer Science and Technology**.🏫
 
-My academic interests primarily lie in the areas of **computer architecture**, **integrated circuit design**, **algorithm design and optimization**(particularly in AI-related projects). I’m deeply passionate about exploring the integration of hardware and software to optimize system performance. One of my key projects includes designing a processor based on the **LoongArch32R** architecture, where I had the opportunity to lead the design of the memory system and conduct testing on an FPGA platform.
+My academic interests primarily lie in the areas of **computer architecture**, **integrated circuit design**, **algorithm design and optimization**(particularly in AI-related projects). I’m passionate about exploring the integration of hardware and software to optimize system performance. One of my key projects involves designing a processor based on the LoongArch32R architecture, where I led the design of the memory system and conducted testing on an FPGA platform.
 
-In addition to my research, I have actively participated in **competitive programming**, and I am grateful to have received several national-level awards in recognition of my efforts.
+Beyond my research, I have actively participated in **competitive programming** and am honored to have received several national-level awards for my efforts.
 
 I am passionate about discovering new solutions and continuously learning. Collaborating with others who share similar academic interests or different areas of expertise is something I value greatly, as it opens up opportunities for mutual growth and knowledge exchange.
 
-If you share similar interests or just want to connect, don’t hesitate to **reach out**! I believe there is always much to learn, and I am constantly open to new ideas and connections. Moreover, I’m excited about the future opportunities that will allow me to grow both personally and professionally.🤩
+If you share similar interests or simply want to connect, feel free to **reach out**! I believe there is always much to learn, and I am always open to new ideas and connections. I’m also excited about future opportunities to grow both personally and professionally. 🤩
 
 
 <!--
