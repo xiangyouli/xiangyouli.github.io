@@ -17,20 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Li Heyue's Personal Introduction
 
 Hi, there! 👋
 
-I’m **Heyue Li(李禾越)**, currently an third year undergraduate student at the **[School of Computer Science](https://cs.whu.edu.cn/)**, **[Wuhan University (WHU)](https://www.whu.edu.cn/)**, where I am pursuing my Bachelor’s degree in **Computer Science and Technology**.
+I’m **Heyue Li(李禾越)**, currently an third year undergraduate student at the **[School of Computer Science](https://cs.whu.edu.cn/)**, **[Wuhan University (WHU)](https://www.whu.edu.cn/)**, where I am pursuing my Bachelor’s degree in **Computer Science and Technology**.🏫
 
-My academic interests primarily lie in the areas of **computer architecture**, **integrated circuit design**, **algorithm design and optimization**. I’m deeply passionate about exploring the integration of hardware and software to optimize system performance. One of my key projects includes designing a processor based on the **LoongArch32R** architecture, where I had the opportunity to lead the design of the memory system and conduct testing on an FPGA platform.
+My academic interests primarily lie in the areas of **computer architecture**, **integrated circuit design**, **algorithm design and optimization**(particularly in AI-related projects). I’m deeply passionate about exploring the integration of hardware and software to optimize system performance. One of my key projects includes designing a processor based on the **LoongArch32R** architecture, where I had the opportunity to lead the design of the memory system and conduct testing on an FPGA platform.
 
 In addition to my research, I have actively participated in **competitive programming**, and I am grateful to have received several national-level awards in recognition of my efforts.
 
-I am always eager to learn from others and collaborate with like-minded individuals, so if you share similar interests or just want to connect, don’t hesitate to reach out! I believe there is always much to learn, and I’m excited about the future opportunities to grow both personally and professionally. 😊
+I am always eager to learn from others and collaborate with like-minded individuals, so if you share similar interests or just want to connect, don’t hesitate to reach out! I believe there is always much to learn, and I’m excited about the future opportunities to grow both personally and professionally. 😄
 
-Feel free to drop me an email if you'd like to chat or collaborate!
+I am passionate about discovering new solutions and continuously learning. Collaborating with others who share similar academic interests or different areas of expertise is something I value greatly, as it opens up opportunities for mutual growth and knowledge exchange.
 
+If you are interested in discussing research or collaborating on projects, feel free to get in touch! I am always open to new ideas and connections. 🤩
 
 
 <!--
