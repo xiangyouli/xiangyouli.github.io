@@ -28,7 +28,7 @@ In addition to my research, I have actively participated in **competitive progra
 
 I am passionate about discovering new solutions and continuously learning. Collaborating with others who share similar academic interests or different areas of expertise is something I value greatly, as it opens up opportunities for mutual growth and knowledge exchange.
 
-I am always eager to learn from others and collaborate with like-minded individuals, so if you share similar interests or just want to connect, don’t hesitate to reach out! I believe there is always much to learn, and I am constantly open to new ideas and connections. Moreover, I’m excited about the future opportunities that will allow me to grow both personally and professionally.🤩
+If you share similar interests or just want to connect, don’t hesitate to **reach out**! I believe there is always much to learn, and I am constantly open to new ideas and connections. Moreover, I’m excited about the future opportunities that will allow me to grow both personally and professionally.🤩
 
 
 <!--
