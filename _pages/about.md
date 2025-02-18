@@ -43,8 +43,8 @@ If you share similar interests or simply want to connect, feel free to **reach o
 
 # 🏆 Competition Awards
 - **National Second Prize**: 2024 National College Student Computer Systems Capability Competition - CPU Design Contest (Loongson Cup), August 2024
-- **National Second Prize**: 2023 China Collegiate Programming Contest (CCPC), Silver Medal, October 2023
-- **National Second Prize**: 2022 China Collegiate Programming Contest (CCPC), Silver Medal, November 2022
+- **National Second Prize (Silver Medal)**: 2023 China Collegiate Programming Contest (CCPC), Silver Medal, October 2023
+- **National Second Prize (Silver Medal)**: 2022 China Collegiate Programming Contest (CCPC), Silver Medal, November 2022
 - **National Merit Award**: 2022 International Collegiate Programming Contest Asia Regional (ICPC Shenyang), November 2022
 - **National Merit Award**: 2024 China Collegiate Computer Competition - Team Programming Ladder Contest, April 2024
 - **National Merit Award**: 2023 China Collegiate Computer Competition - Team Programming Ladder Contest, May 2023
