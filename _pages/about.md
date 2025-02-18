@@ -17,17 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome!!!😘😘😘
+# Li Heyue's Personal Introduction
 
-I'm **Yijie Lu**(陆一杰)🐕.I'm presently a sophomore undergraduate studying Cyberspace security for my B.E. at [Cyber Science and Engineering (SCSE)](https://cse.whu.edu.cn/index.htm),[Wuhan University(WHU)](https://www.whu.edu.cn/).
+Hello! 👋
 
-Since I am interested in intellectual property law, I am actively looking for opportunities to study for a Master of Laws.
+I’m **Li Heyue**, currently an undergraduate student at the **School of Computer Science**, **Wuhan University (WHU)**, where I am pursuing my Bachelor’s degree in **Computer Science and Technology**.
 
-I feel really fortunate to have had the opportunity to meet so many exceptional seniors over the last year, especially **Siqi Zhu,Yichen Luo, Yuxin Wu, and Boheng Li**.I've learned a lot from them, therefore I'm prepared to try my hardest to mentor and counsel the younger.😄
+My academic interests primarily lie in the areas of **computer architecture**, **processor design**, and **machine learning**. I’m deeply passionate about exploring the integration of hardware and software to optimize system performance. One of my key projects includes designing a processor based on the **LoongArch32R** architecture, where I had the opportunity to lead the design of the memory system and conduct testing on an FPGA platform.
 
-Over the past year,I have won the **First Class Scholarship of WHU** (5% school-wide), the **Lei Jun Computer Science Undergraduate Scholarship** (60 candidates per year in WHU).
+In addition to my research, I have actively participated in **competitive programming**, and I am grateful to have received several national-level awards in recognition of my efforts.
 
-I look forward to connecting and communicating with more people, if you are interested in me, please drop me an email!☀️
+I am always eager to learn from others and collaborate with like-minded individuals, so if you share similar interests or just want to connect, don’t hesitate to reach out! I believe there is always much to learn, and I’m excited about the future opportunities to grow both personally and professionally. 😊
+
+Feel free to drop me an email if you'd like to chat or collaborate!
+
+
 
 <!--
 # 🔥 News
