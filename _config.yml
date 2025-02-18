@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yijie Lu's Homepage"
+title                    : "Heyue Li's Homepage"
 description              : "Undergraduate student at Wuhan University."
-repository               : "https://1NormalGuy.github.io"
+repository               : "https://github.com/YHISH-yhish/yhish.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yijie Lu(陆一杰)"
+  name             : "Heyue Li(李禾越)"
   avatar           : "images/lu.png"
   bio              : "Wuhan University"
   location         : "Wuhan, Hubei, China"
   employer         :
   pubmed           : 
   # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "2022302181081@whu.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  email            : "liheyue@whu.edu.cn"
+  # researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "1NormalGuy"
+  github           : "YHISH-yhish"
   google_plus      :
   keybase          :
   instagram        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@Dogor_h"
+  # twitter          : "@Dogor_h"
   vine             :
   weibo            :
   xing             :
