@@ -58,17 +58,16 @@ If you are interested in discussing research or collaborating on projects, feel 
 - **University Third Prize (Bronze Medal)**: 2022 Wuhan University Freshman Programming Contest, October 2022
 - **University Top Four**: 2023 Wuhan University RISC-V Application Innovation Contest, December 2023
 
-
+<!--
 # 🎖 Scholarships and Honors
 - *2023.10* **Lei Jun Computer Science Undergraduate Scholarship** (Award Rate: 20/1213=1.6%) *Wuhan University & Xiao Mi Technologies Co., Ltd.*
 - *2023.10* **Merit Student**  (Award Rate: 10% school-wide) *Wuhan University*  
 - *2023.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University* 
-
+-->
 
 # 📖 Educations
-- *2022.08 - Now*, Undergraduate, School of Cyber Science and Engineering, Wuhan University, China. Majoring in Cyberspace Security. 
-- *2019.09 - 2022.06*, Senior Middle School, Yongzhou No. 4 Middle School, China.
-- *2016.09 - 2019.06*, Junior Middle School, Dong'an Chengjiang Experimental Middle School, China.
+- *2022.08 - Now*, Undergraduate, [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University (WHU)](https://www.whu.edu.cn/), China. Majoring in Computer Science and Technology. 
+- *2019.09 - 2022.06*, Senior Middle School,  [NO.1 Middle School affiliated to Central China Normal University](https://www.hzsdyfz.com.cn/), China.
 
 <!--
 # 🎡 Activities
