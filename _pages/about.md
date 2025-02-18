@@ -44,17 +44,20 @@ If you are interested in discussing research or collaborating on projects, feel 
 -->
 
 # 🏆 Competition Awards
-- **Third Prize.** RAICOM CAIA Competition: Hubei Provincial Division. *2024.06*
-- **Second Prize.** China College Student Computer Design Competition (Central and South Region) (Digital Media Technology  Track). *2024.05*
-- **Third Prize.** China College Student Computer Design Competition (Central and South Region) (Digital Media Technology  Track). *2024.05*
-- **Second Prize.** LanQiao Cup：Digital Technology Innovation Competition-Team Competition. *2024.05*
-- **Third Prize.** College Student Mathematical Modeling Competition-Huazhong Cup. *2024.05*
-- **Third Prize.** 2023 "Foreign Language Research Society, National Talent Cup" and "Understanding Contemporary China" National College Student Foreign Language Proficiency Competition.*2023.10*
-- **Second Prize.** National University Business Elite Challenge Innovation and Entrepreneurship Competition Entrepreneurship Plan Track.*2023.10*
-- **Third Prize.** China College Student Computer Design Competition (Central and South Region) (Digital Media Technology  Track). *2023.06*
-- **Third Prize.** China College Student Computer Design Competition (Central and South Region) (Artificial Intelligence Track). *2023.06*
-- **Forth Prize.** CTF Freshman Team Competition. *2022.11*
-- **Excellence Award.** The 9th Zero Cup Web Design Competition. *2022.11*
+- **National Second Prize**: 2024 National College Student Computer Systems Capability Competition - CPU Design Contest (Loongson Cup), August 2024
+- **National Second Prize**: 2023 China Collegiate Programming Contest (CCPC), Silver Medal, October 2023
+- **National Second Prize**: 2022 China Collegiate Programming Contest (CCPC), Silver Medal, November 2022
+- **National Merit Award**: 2022 International Collegiate Programming Contest Asia Regional (ICPC Shenyang), November 2022
+- **National Merit Award**: 2024 China Collegiate Computer Competition - Team Programming Ladder Contest, April 2024
+- **National Merit Award**: 2023 China Collegiate Computer Competition - Team Programming Ladder Contest, May 2023
+- **Provincial Third Prize**: 2024 China Collegiate Computer Design Competition - Central South Region, June 2024
+- **Provincial Third Prize**: 2024 Blue Bridge Cup Hubei Regional C/C++ Programming University Group A, April 2024
+- **Provincial Third Prize**: 2023 Hubei Province College Student Programming Contest (CCPC Hubei Provincial Contest), Bronze Medal, April 2023
+- **Provincial Third Prize**: 2023 Blue Bridge Cup Hubei Regional C/C++ Programming University Group A, April 2023
+- **University First Prize (First Place)**: 2023 Wuhan University Cybersecurity Knowledge Competition, October 2023
+- **University Third Prize (Bronze Medal)**: 2022 Wuhan University Freshman Programming Contest, October 2022
+- **University Top Four**: 2023 Wuhan University RISC-V Application Innovation Contest, December 2023
+
 
 # 🎖 Scholarships and Honors
 - *2023.10* **Lei Jun Computer Science Undergraduate Scholarship** (Award Rate: 20/1213=1.6%) *Wuhan University & Xiao Mi Technologies Co., Ltd.*
