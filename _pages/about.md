@@ -26,11 +26,9 @@ My academic interests primarily lie in the areas of **computer architecture**, *
 
 In addition to my research, I have actively participated in **competitive programming**, and I am grateful to have received several national-level awards in recognition of my efforts.
 
-I am always eager to learn from others and collaborate with like-minded individuals, so if you share similar interests or just want to connect, don’t hesitate to reach out! I believe there is always much to learn, and I’m excited about the future opportunities to grow both personally and professionally. 😄
-
 I am passionate about discovering new solutions and continuously learning. Collaborating with others who share similar academic interests or different areas of expertise is something I value greatly, as it opens up opportunities for mutual growth and knowledge exchange.
 
-If you are interested in discussing research or collaborating on projects, feel free to get in touch! I believe there is always much to learn, and I am constantly open to new ideas and connections. Moreover, I’m excited about the future opportunities that will allow me to grow both personally and professionally.🤩
+I am always eager to learn from others and collaborate with like-minded individuals, so if you share similar interests or just want to connect, don’t hesitate to reach out! I believe there is always much to learn, and I am constantly open to new ideas and connections. Moreover, I’m excited about the future opportunities that will allow me to grow both personally and professionally.🤩
 
 
 <!--
