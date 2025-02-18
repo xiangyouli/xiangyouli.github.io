@@ -20,7 +20,7 @@ redirect_from:
 
 Hi, there! 👋
 
-I’m **Heyue Li(李禾越)**, currently an third-year undergraduate student at the **[School of Computer Science](https://cs.whu.edu.cn/)**, **[Wuhan University (WHU)](https://www.whu.edu.cn/)**, where I am pursuing my Bachelor’s degree in **Computer Science and Technology**.🏫
+I’m **Heyue Li(李禾越)**, currently a third-year undergraduate student at the **[School of Computer Science](https://cs.whu.edu.cn/)**, **[Wuhan University (WHU)](https://www.whu.edu.cn/)**, where I am pursuing my Bachelor’s degree in **Computer Science and Technology**.🏫
 
 My academic interests primarily lie in the areas of **computer architecture**, **integrated circuit design**, **algorithm design and optimization**(particularly in AI-related projects). I’m passionate about exploring the integration of hardware and software to optimize system performance. One of my key projects involves designing a processor based on the LoongArch32R architecture, where I led the design of the memory system and conducted testing on an FPGA platform.
 
