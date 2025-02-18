@@ -19,11 +19,11 @@ redirect_from:
 
 # Li Heyue's Personal Introduction
 
-Hello! 👋
+Hi, there! 👋
 
-I’m **Li Heyue**, currently an third year undergraduate student at the **[School of Computer Science](https://cs.whu.edu.cn/)**, **[Wuhan University (WHU)](https://www.whu.edu.cn/)**, where I am pursuing my Bachelor’s degree in **Computer Science and Technology**.
+I’m **Heyue Li(李禾越)**, currently an third year undergraduate student at the **[School of Computer Science](https://cs.whu.edu.cn/)**, **[Wuhan University (WHU)](https://www.whu.edu.cn/)**, where I am pursuing my Bachelor’s degree in **Computer Science and Technology**.
 
-My academic interests primarily lie in the areas of **computer architecture**, **processor design**, and **machine learning**. I’m deeply passionate about exploring the integration of hardware and software to optimize system performance. One of my key projects includes designing a processor based on the **LoongArch32R** architecture, where I had the opportunity to lead the design of the memory system and conduct testing on an FPGA platform.
+My academic interests primarily lie in the areas of **computer architecture**, **integrated circuit design**, **algorithm design and optimization**. I’m deeply passionate about exploring the integration of hardware and software to optimize system performance. One of my key projects includes designing a processor based on the **LoongArch32R** architecture, where I had the opportunity to lead the design of the memory system and conduct testing on an FPGA platform.
 
 In addition to my research, I have actively participated in **competitive programming**, and I am grateful to have received several national-level awards in recognition of my efforts.
 
