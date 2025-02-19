@@ -33,8 +33,14 @@ If you share similar interests or simply want to connect, feel free to **reach o
 # 🎓 Research
 
 
-# 🔧 Skills
+# 📖 Educations
+- *2022.08 - Now*, Undergraduate, [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University (WHU)](https://www.whu.edu.cn/), China. Majoring in Computer Science and Technology. 
+- *2019.09 - 2022.06*, Senior Middle School,  [NO.1 Middle School affiliated to Central China Normal University](https://www.hzsdyfz.com.cn/), China.
 
+# 🔧 Skills
+- **Programming Skills**: Proficient in **C/C++**, **Verilog**, and **Python**. Experienced in algorithm competitions and computer hardware design projects. Additionally, skilled in data processing, deep learning model training, and optimization.
+- **English Proficiency**: Successfully passed the **CET-4** and **CET-6** exams with good scores. Experienced in writing academic papers in English.
+- **Development Tools**: Experienced with **VS Code**, **Vivado**, **PyCharm**, **Visual Studio**, **CLion**, **LATEX** (Overleaf), and **Git**.
 
 <!--
 # 🔥 News
@@ -68,10 +74,8 @@ If you share similar interests or simply want to connect, feel free to **reach o
 - Other: **Wuhan University International Exchange Scholarship** and **Various Discipline Competition Scholarships**
 - Cumulative total of over ￥30,000
 
+# 👨‍🎓 Student Activities
 
-# 📖 Educations
-- *2022.08 - Now*, Undergraduate, [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University (WHU)](https://www.whu.edu.cn/), China. Majoring in Computer Science and Technology. 
-- *2019.09 - 2022.06*, Senior Middle School,  [NO.1 Middle School affiliated to Central China Normal University](https://www.hzsdyfz.com.cn/), China.
 
 <!--
 # 🎡 Activities
