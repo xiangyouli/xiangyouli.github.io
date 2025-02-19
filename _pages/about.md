@@ -56,12 +56,12 @@ If you share similar interests or simply want to connect, feel free to **reach o
 - **University Third Prize (Bronze Medal)**: 2022 Wuhan University Freshman Programming Contest, October 2022
 - **University Top Four**: 2023 Wuhan University RISC-V Application Innovation Contest, December 2023
 
-<!--
+
 # 🎖 Scholarships and Honors
-- *2023.10* **Lei Jun Computer Science Undergraduate Scholarship** (Award Rate: 20/1213=1.6%) *Wuhan University & Xiao Mi Technologies Co., Ltd.*
-- *2023.10* **Merit Student**  (Award Rate: 10% school-wide) *Wuhan University*  
-- *2023.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University* 
--->
+- **Wuhan University Special Scholarship – AEON Scholarship**: ¥8000, awarded to 25 students across four colleges
+- **Wuhan University Outstanding Student Award**: Recognized for academic excellence
+- Other: **Wuhan University International Exchange Scholarship** and **Various Discipline Competition Scholarships**: Cumulative total of over ¥30,000 in scholarship prizes from various academic competitions
+
 
 # 📖 Educations
 - *2022.08 - Now*, Undergraduate, [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University (WHU)](https://www.whu.edu.cn/), China. Majoring in Computer Science and Technology. 
