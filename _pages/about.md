@@ -75,11 +75,11 @@ If you share similar interests or simply want to connect, feel free to **reach o
 - Cumulative total of over ￥30,000
 
 # 👨‍🎓 Student Activities
-- **Teaching Assistant, Computer Organization and Architecture** (Spring 2025 - Ongoing): Assisting in the teaching of Verilog lab exercises, grading exams, addressing over 20 student inquiries, and organizing post-class discussions for a class of 80+ students.
+- **Teaching Assistant, Computer Organization and Architecture** (Spring 2025 - Ongoing)
 
-- **Teaching Assistant, Digital Logic and Digital Circuits** (Spring 2024): Assisted in course delivery, helped debug Verilog experiments, graded assignments, and participated in answering students' questions.
+- **Teaching Assistant, Digital Logic and Digital Circuits** (Spring 2024): I assisted with the course for one semester, where my responsibilities included debugging Verilog lab code, grading the final exams for the entire year, and grading 10 course assignments on time. I also answered over 20 course-related questions from undergraduates, organized and participated in post-class discussions, and helped the instructor manage a class of over 80 students.
 
-- **President & Academic Minister, LuoYuan Classical Culture Society, Wuhan University** (June 2023 - June 2024): Led the project for the 31st Wuhan University Cultural Festival, organized a university-wide classical knowledge competition, reformed club structure and activities, and reviewed academic content. Developed strong interdisciplinary thinking, teamwork, organization, and communication skills.
+- **President & Academic Minister, LuoYuan Classical Culture Society, Wuhan University** (June 2023 - June 2024): As the project leader for the 31st Wuhan University Club Culture Festival, I organized a university-wide Chinese classical studies knowledge competition. I collaborated with multiple student organizations to co-host events, promoted reforms in the club's structure and activity formats, and organized a full year of club activities. I also led classic literature readings and knowledge-sharing sessions with members, reviewed the club's academic content, and developed strong interdisciplinary thinking, a good sense of teamwork, and excellent organizational and communication skills.
 
 
 <!--
