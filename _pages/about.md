@@ -40,7 +40,7 @@ If you share similar interests or simply want to connect, feel free to **reach o
 # 🔧 Skills
 - **Programming Skills**: Proficient in **C/C++**, **Verilog**, and **Python**. Experienced in algorithm competitions and computer hardware design projects. Additionally, skilled in data processing, deep learning model training, and optimization.
 - **English Proficiency**: Successfully passed the **CET-4** and **CET-6** exams with good scores. Experienced in writing academic papers in English.
-- **Development Tools**: Experienced with **VS Code**, **Vivado**, **PyCharm**, **Visual Studio**, **CLion**, **LATEX** (Overleaf), and **Git**.
+- **Development Tools**: Experienced with **VS Code**, **Xilinx Vivado**, **PyCharm**, **Visual Studio**, **LATEX** (Overleaf), and **Git**.
 
 <!--
 # 🔥 News
