@@ -22,13 +22,18 @@ Hi, there! 👋
 
 I’m **Heyue Li(李禾越)**, currently a third-year undergraduate student at the **[School of Computer Science](https://cs.whu.edu.cn/)**, **[Wuhan University (WHU)](https://www.whu.edu.cn/)**, where I am pursuing my Bachelor’s degree in **Computer Science and Technology**.🏫
 
-My academic interests primarily lie in the areas of **computer architecture**, **integrated circuit design**, **algorithm design and optimization**(particularly in AI-related projects). I’m passionate about exploring the integration of hardware and software to optimize system performance. One of my key projects involves designing a processor based on the LoongArch32R architecture, where I led the design of the memory system and conducted testing on an FPGA platform.🛠️
+My academic interests primarily lie in the areas of **computer architecture**, **integrated circuit design**, **algorithm design and optimization**(particularly in AI-related projects). I am passionate about exploring the boundaries of knowledge in hardware and system design, working at the intersection of software and hardware to enhance system performance. In my projects, I have worked on processor design, including memory systems and data path optimization, and have been involved in the design of various chips, primarily at the IC design level, where I focus on the coding aspects of these systems.🛠️
 
 Beyond research, I am active involved in **competitive programming**(such as ACM-ICPC) and am honored to have received several national-level awards for my efforts.🏅
 
 I am passionate about discovering new solutions and continuously learning. I highly value collaborating with others who share similar academic interests or possess expertise in different fields, as it opens opportunities for mutual growth and knowledge exchange. 💡
 
 If you share similar interests or simply want to connect, feel free to **reach out**! I believe there’s always much to learn, and I’m always open to new ideas and connections. I’m also excited about future opportunities for both personal and professional growth. 🤩
+
+# 🎓 Research
+
+
+# 🔧 Skills
 
 
 <!--
