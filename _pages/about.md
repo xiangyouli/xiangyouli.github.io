@@ -24,11 +24,11 @@ I’m **Heyue Li(李禾越)**, currently a third-year undergraduate student at t
 
 My academic interests primarily lie in the areas of **computer architecture**, **integrated circuit design**, **algorithm design and optimization**(particularly in AI-related projects). I’m passionate about exploring the integration of hardware and software to optimize system performance. One of my key projects involves designing a processor based on the LoongArch32R architecture, where I led the design of the memory system and conducted testing on an FPGA platform.🛠️
 
-Beyond my research, I have actively participated in **competitive programming**(like ACM-ICPC) and am honored to have received several national-level awards for my efforts.🏅
+Beyond research, I am active involved in **competitive programming**(such as ACM-ICPC) and am honored to have received several national-level awards for my efforts.🏅
 
-I am passionate about discovering new solutions and continuously learning. Collaborating with others who share similar academic interests or different areas of expertise is something I value greatly, as it opens up opportunities for mutual growth and knowledge exchange.💡
+I am passionate about discovering new solutions and continuously learning. I highly value collaborating with others who share similar academic interests or possess expertise in different fields, as it opens opportunities for mutual growth and knowledge exchange. 💡
 
-If you share similar interests or simply want to connect, feel free to **reach out**! I believe there is always much to learn, and I am always open to new ideas and connections. I’m also excited about future opportunities to grow both personally and professionally. 🤩
+If you share similar interests or simply want to connect, feel free to **reach out**! I believe there’s always much to learn, and I’m always open to new ideas and connections. I’m also excited about future opportunities for both personal and professional growth. 🤩
 
 
 <!--
