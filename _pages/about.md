@@ -75,6 +75,11 @@ If you share similar interests or simply want to connect, feel free to **reach o
 - Cumulative total of over ￥30,000
 
 # 👨‍🎓 Student Activities
+- **Teaching Assistant, Computer Organization and Architecture** (Spring 2025 - Ongoing): Assisting in the teaching of Verilog lab exercises, grading exams, addressing over 20 student inquiries, and organizing post-class discussions for a class of 80+ students.
+
+- **Teaching Assistant, Digital Logic and Digital Circuits** (Spring 2024): Assisted in course delivery, helped debug Verilog experiments, graded assignments, and participated in answering students' questions.
+
+- **President & Academic Minister, LuoYuan Classical Culture Society, Wuhan University** (June 2023 - June 2024): Led the project for the 31st Wuhan University Cultural Festival, organized a university-wide classical knowledge competition, reformed club structure and activities, and reviewed academic content. Developed strong interdisciplinary thinking, teamwork, organization, and communication skills.
 
 
 <!--
