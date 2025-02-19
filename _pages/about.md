@@ -20,11 +20,11 @@ redirect_from:
 
 Hi, there! 👋
 
-I’m **Heyue Li(李禾越)**, currently a third-year undergraduate student at the **[School of Computer Science](https://cs.whu.edu.cn/)**, **[Wuhan University (WHU)](https://www.whu.edu.cn/)**, where I am pursuing my Bachelor’s degree in **Computer Science and Technology**.🏫
+I’m **Heyue Li(李禾越)**, currently a third-year undergraduate student at the **[School of Computer Science](https://cs.whu.edu.cn/)**, **[Wuhan University (WHU)](https://www.whu.edu.cn/)**, where I am pursuing my Bachelor’s degree in **Computer Science and Technology**. 🏫
 
-My academic interests primarily lie in the areas of **computer architecture**, **integrated circuit(IC) design**, **algorithm design and optimization**(particularly in AI-related projects). I am passionate about exploring the boundaries of knowledge in hardware design, working at the intersection of software and hardware to enhance system performance. Through my projects, I have gained hands-on experience in processor microarchitecture design and the design of various chips, concentrating on the IC design level and its coding aspects. Additionally, I have worked on optimizing AI algorithms to improve efficiency and performance, as well as implementing AI-driven solutions in real-world applications.🛠️
+My academic interests primarily lie in the areas of **computer architecture**, **integrated circuit(IC) design**, **algorithm design and optimization**(particularly in AI-related projects). I am passionate about exploring the boundaries of knowledge in hardware design, working at the intersection of software and hardware to enhance system performance. Through my projects, I have gained hands-on experience in processor microarchitecture design and the design of various chips, concentrating on the IC design level and its coding aspects. Additionally, I have worked on optimizing AI algorithms to improve efficiency and performance, as well as implementing AI-driven solutions in real-world applications. 🛠️
 
-Beyond research, I am active involved in **competitive programming**(such as ACM-ICPC) and am honored to have received several national-level awards for my efforts.🏅
+Beyond research, I am active involved in **competitive programming**, particularly in contests such as The International Collegiate Programming Contest (ICPC) and the China Collegiate Programming Contest (CCPC). My participation in these competitions has earned me several national and provincial-level awards, reflecting my strong skills and dedication in problem-solving and algorithmic challenges. 🏅
 
 I am passionate about discovering new solutions and continuously learning. I highly value collaborating with others who share similar academic interests or possess expertise in different fields, as it opens opportunities for mutual growth and knowledge exchange. 💡
 
