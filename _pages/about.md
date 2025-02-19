@@ -60,7 +60,8 @@ If you share similar interests or simply want to connect, feel free to **reach o
 # 🎖 Scholarships and Honors
 - **Wuhan University Special Scholarship – AEON Scholarship**: ¥8000, awarded to 25 students across four colleges
 - **Wuhan University Outstanding Student Award**: Recognized for academic excellence
-- Other: **Wuhan University International Exchange Scholarship** and **Various Discipline Competition Scholarships**: Cumulative total of over ¥30,000 in scholarship prizes from various academic competitions
+- Other: **Wuhan University International Exchange Scholarship** and **Various Discipline Competition Scholarships**
+- Cumulative total of over ¥30,000
 
 
 # 📖 Educations
