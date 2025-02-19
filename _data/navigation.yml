@@ -1,24 +1,24 @@
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/yhish.github.io/#about-me"
 
   - title: "Research"
-    url: "/#-research"
+    url: "/yhish.github.io/#-research"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/yhish.github.io/#-educations"
 
   - title: "Skills"
-    url: "/#-skills"
+    url: "/yhish.github.io/#-skills"
 
   - title: "Competition Awards"
-    url: "/#-competition-awards"
+    url: "/yhish.github.io/#-competition-awards"
 
   - title: "Scholarships and Honors"
-    url: "/#-scholarships-and-honors"
+    url: "/yhish.github.io/#-scholarships-and-honors"
 
   - title: "Student Activities"
-    url: "/#-student activities"
+    url: "/yhish.github.io/#-student activities"
 
   
 
