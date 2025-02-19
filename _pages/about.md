@@ -58,10 +58,10 @@ If you share similar interests or simply want to connect, feel free to **reach o
 
 
 # 🎖 Scholarships and Honors
-- **Wuhan University Special Scholarship – AEON Scholarship**: ¥8000, awarded to 25 students across four colleges
-- **Wuhan University Merit Student Award**: Recognized for excellent students in the school of top
+- **Wuhan University Special Scholarship – AEON Scholarship**: \u00A58000, awarded to 25 students across four colleges
+- **Wuhan University Merit Student Award**: Recognized as one of the top students at the university
 - Other: **Wuhan University International Exchange Scholarship** and **Various Discipline Competition Scholarships**
-- Cumulative total of over ￥30,000
+- Cumulative total of over \u00A530,000
 
 
 # 📖 Educations
