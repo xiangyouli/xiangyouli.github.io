@@ -31,6 +31,18 @@ I am passionate about discovering new solutions and continuously learning. I hig
 If you share similar interests or simply want to connect, feel free to **reach out**! I believe there’s always much to learn, and I’m always open to new ideas and connections. I’m also excited about future opportunities for both personal and professional growth. 🤩
 
 # 🎓 Research
+- **Processor Microarchitecture Design Based on LoongArch32R Instruction Set Architecture**  *2024.3-2024.8* [[project]](https://github.com/dzh314/BL-LA32R))
+  + Processor design, LoongArch32R architecture, FPGA implementation, performance optimization
+
+- **Probabilistic Feature Smoothed Gaussian Process for Imbalanced Regression** *2024.9-2024.10* [[paper]](https://openreview.net/forum?id=V1MDIFbqCp)
+  + Gaussian process, imbalanced regression, algorithm development, experimental validation
+
+- **Internship at Digital Media and Intelligent Technology Research Institute**  *2025.1-present*
+  + Vector font watermarking, neural network optimization, robustness improvement
+
+- **Internship at Post-Quantum Cryptography and Communication Systems Laboratory**  *2023.6-2024.12*
+  + Post-quantum cryptography, hardware design, NTT operations, cryptographic algorithm testing
+
 
 
 # 📖 Educations
