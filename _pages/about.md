@@ -65,7 +65,7 @@ If you share similar interests or simply want to connect, feel free to **reach o
 - **Provincial Third Prize**: 2023 Blue Bridge Cup Hubei Regional C/C++ Programming University Group A, April 2023 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/2023lanqiao.pdf)
 - **University First Prize (First Place)**: 2023 Wuhan University Cybersecurity Knowledge Competition, October 2023 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/wangluoanquan.png)
 - **University Bronze Medal**: 2022 Wuhan University Freshman Programming Contest, October 2022 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/2022xinshengsai.jpg)
-- **University Top Four**: 2023 Wuhan University RISC-V Application Innovation Contest, December 2023 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/riscv.jpg)
+  <!-- - **University Top Four**: 2023 Wuhan University RISC-V Application Innovation Contest, December 2023 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/riscv.jpg) -->
 
 
 # 🎖 Scholarships and Honors
