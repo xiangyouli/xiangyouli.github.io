@@ -20,7 +20,7 @@ redirect_from:
 
 Hi, there! 👋
 
-I’m **Heyue Li(李禾越)**, currently a third-year undergraduate student at the **[School of Computer Science](https://cs.whu.edu.cn/)**, **[Wuhan University (WHU)](https://www.whu.edu.cn/)**, where I am pursuing my Bachelor’s degree in **Computer Science and Technology**. You can find my Curriculum Vitae(CV) here: [Heyue Li's CV](https://yhish-yhish.github.io/yhish.github.io/assets/CV.pdf). 🏫
+I’m **Heyue Li(李禾越)**, currently a third-year undergraduate student at the **[School of Computer Science](https://cs.whu.edu.cn/)**, **[Wuhan University (WHU)](https://www.whu.edu.cn/)**, where I am pursuing my Bachelor’s degree in **Computer Science and Technology**. You can find my Curriculum Vitae(CV) here: [[Heyue Li's CV]](https://yhish-yhish.github.io/yhish.github.io/assets/CV.pdf). 🏫
 
 My academic interests primarily lie in the areas of **computer architecture**, **integrated circuit(IC) design**, **algorithm design and optimization**(particularly in AI-related projects). I am passionate about exploring the boundaries of knowledge in hardware design, working at the intersection of software and hardware to enhance system performance. Through my projects, I have gained hands-on experience in processor microarchitecture design and the design of various chips, concentrating on IC-level design and its coding aspects. Additionally, I have worked on optimizing AI algorithms to improve efficiency and performance, as well as implementing AI-driven solutions in real-world applications. 🛠️
 
