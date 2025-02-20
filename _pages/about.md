@@ -33,16 +33,27 @@ If you share similar interests or simply want to connect, feel free to **reach o
 # 🎓 Research
 - **Processor Microarchitecture Design Based on LoongArch32R Instruction Set Architecture**  *2024.3-2024.8* [[project]](https://github.com/dzh314/BL-LA32R))
   + **Keywords**:Computer architecture, processor design, Verilog, FPGA, LoongArch, microarchitecture optimization
+  + **Introduction**:This project designed and implemented a high-performance processor based on the LoongArch32R instruction set, featuring a seven-stage pipeline with a frequency of up to 100MHz, capable of running Linux. The project required efficient processor microarchitecture design skills and implementation on an actual FPGA platform for validation. The final result matched the best historical performance of Wuhan University.
+  + **Personal Contributions**:
+    * **Memory System Design**: Designed and optimized the processor's TLB (Translation Lookaside Buffer), cache, and other memory modules, improving memory access efficiency and data throughput, laying the foundation for the system’s subsequent operation.
+    * **Platform Setup and Testing**: Led the deployment of the competition platform (Chiplab) based on FPGA development boards, and was responsible for testing and validating the processor's microarchitecture, including FPGA board and system functionality tests, ensuring the project's stability and performance met the standards.
+  + **Project Outcome**:[Key Contributor] National Second Prize in the 2024 National University Computer System Ability Competition (Loongson Cup) - CPU Design Category
 
 - **Probabilistic Feature Smoothed Gaussian Process for Imbalanced Regression** *2024.9-2024.10* [[paper]](https://openreview.net/forum?id=V1MDIFbqCp)
   + **Keywords**:Imbalanced learning, Gaussian process, Bayesian methods, machine learning
+  + **Introduction**:This research proposed the Probabilistic Feature Smoothed Partially Independent Training Condition Approximation (PFS-PITC) method, which extracts statistical features through equidistant label spacing and applies kernel smoothing, effectively reducing the sensitivity of Gaussian Processes (GP) to imbalanced data. Experimental results show that this method significantly improves GP performance in imbalanced regression tasks and enhances robustness.
+  + **Personal Contributions**:
+    * **Experimental Code and Parameter Tuning**: Wrote code for some control experiments, adjusted model parameters, and compared performance metrics (MSE, MAE) with mainstream methods, ensuring the reproducibility and reliability of the results.
+    * **Paper Writing and Data Visualization**: Contributed to writing the appendix of the paper and refined parts of the main content. Ran mainstream datasets and created experimental figures, ensuring the data presented in the paper was clear and met academic standards.
+  + **Project Outcome**:[Second Author] The paper "Probabilistic Feature Smoothed Gaussian Process for Imbalanced Regression" was submitted to ICLR 2025 (withdrawn submission).
 
 - **Internship at Digital Media and Intelligent Technology Research Institute**  *2025.1-present*
   + **Keywords**:Digital copyright protection, information hiding and watermarking, deep learning optimization, vector graphics automation design
+  + **Introduction**:In the end-to-end vector font watermark generation study, implemented a novel SDF generation process optimization method, removing the reliance on derivative calculations, significantly enhancing the robustness of the watermark encoding system in complex environments. Improved the stability and accuracy of the model by adopting different neural network architectures to replace the traditional MLP used in the original method.
 
 - **Internship at Post-Quantum Cryptography and Communication Systems Laboratory**  *2023.6-2024.12*
   + **Keywords**:Post-quantum cryptographic algorithms, chip design, hardware implementation, test platform development
-
+  + **Introduction**:Worked on the hardware implementation of post-quantum cryptographic algorithms such as Kyber, Frodo, and SHA3. Designed a modular multiplication unit for the NTT butterfly operation unit, built platforms, and tested Frodo640, Frodo976, and Frodo1344.
 
 
 # 📖 Educations
