@@ -78,7 +78,7 @@ If you share similar interests or simply want to connect, feel free to **reach o
 🌟Here are some highlights from the events I've participated in.
 <div style="overflow-x: auto; white-space: nowrap;">
     <img src="https://yhish-yhish.github.io/yhish.github.io/images/guoxue_competition.png" style="display: inline-block; margin-right: 10px;" width="200" />
-    <img src="https://yhish-yhish.github.io/yhish.github.io/images/guoxue_huanjie.jpg" style="display: inline-block; margin-right: 10px;" width="200" />
+    <img src="https://yhish-yhish.github.io/yhish.github.io/images/guoxueshe_huanjie.jpg" style="display: inline-block; margin-right: 10px;" width="200" />
     <img src="https://yhish-yhish.github.io/yhish.github.io/images/icpc_shenyang.jpg" style="display: inline-block; margin-right: 10px;" width="200" />
     <img src="https://yhish-yhish.github.io/yhish.github.io/images/jiangxuejin.jpg" style="display: inline-block; margin-right: 10px;" width="200" />
     <img src="https://yhish-yhish.github.io/yhish.github.io/images/ccpc_chongqing2023.jpg" style="display: inline-block; margin-right: 10px;" width="200" />
