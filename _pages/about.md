@@ -80,7 +80,7 @@ If you share similar interests or simply want to connect, feel free to **reach o
 - **Teaching Assistant, Digital Logic and Digital Circuits** *Spring 2024*<br>
   I assisted with the course for one semester, where my responsibilities included debugging Verilog lab code, grading the final exams for the entire year, and grading 10 course assignments on time. I also answered over 20 course-related questions from undergraduates, organized and participated in post-class discussions, and helped the instructor manage a class of over 80 students.
 
-- **President & Academic Minister, LuoYuan Classical Culture Student Club, Wuhan University** *June 2023 - June 2024*<br>
+- **President & Academic Minister, LuoYuan Classical Culture Student Club, Wuhan University** *June 2023 - June 2024*  [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/luoyuan.pdf) <br>
   As the project leader for the 31st Wuhan University Club Culture Festival, I organized a university-wide Chinese culture studies knowledge competition. I collaborated with multiple student organizations to co-host events, promoted reforms in the club's structure and activity formats, and organized a full year of club activities. I also led classic literature readings and knowledge-sharing sessions with members, reviewed the club's academic content, and developed strong interdisciplinary thinking, a good sense of teamwork, and excellent organizational and communication skills.
 
 
