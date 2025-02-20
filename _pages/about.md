@@ -75,6 +75,15 @@ If you share similar interests or simply want to connect, feel free to **reach o
 - Cumulative total of over ￥30,000
 
 # 👨‍🎓 Student Activities
+🌟Here are some highlights from the events I've participated in.
+<div style="overflow-x: auto; white-space: nowrap;">
+    <img src="https://yhish-yhish.github.io/yhish.github.io/images/guoxue_competition.png" style="display: inline-block; margin-right: 10px; height: 150px;" />
+    <img src="https://yhish-yhish.github.io/yhish.github.io/images/ccpc_chongqing2023.jpg" style="display: inline-block; margin-right: 10px; height: 150px;" />
+    <img src="https://yhish-yhish.github.io/yhish.github.io/images/guoxueshe_huanjie.jpg" style="display: inline-block; margin-right: 10px; height: 150px;" />
+    <img src="https://yhish-yhish.github.io/yhish.github.io/images/icpc_shenyang.jpg" style="display: inline-block; margin-right: 10px; height: 150px;" />
+    <img src="https://yhish-yhish.github.io/yhish.github.io/images/jiangxuejin.jpg" style="display: inline-block; margin-right: 10px; height: 150px;" />
+</div>
+
 - **Teaching Assistant, Computer Organization and Architecture** *Spring 2025 - Ongoing*
 
 - **Teaching Assistant, Digital Logic and Digital Circuits** *Spring 2024*<br>
