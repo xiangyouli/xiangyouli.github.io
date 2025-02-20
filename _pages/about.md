@@ -32,16 +32,16 @@ If you share similar interests or simply want to connect, feel free to **reach o
 
 # 🎓 Research
 - **Processor Microarchitecture Design Based on LoongArch32R Instruction Set Architecture**  *2024.3-2024.8* [[project]](https://github.com/dzh314/BL-LA32R))
-  + Processor design, LoongArch32R architecture, FPGA implementation, performance optimization
+  + **Keywords**:Computer architecture, processor design, Verilog, FPGA, LoongArch, microarchitecture optimization
 
 - **Probabilistic Feature Smoothed Gaussian Process for Imbalanced Regression** *2024.9-2024.10* [[paper]](https://openreview.net/forum?id=V1MDIFbqCp)
-  + Gaussian process, imbalanced regression, algorithm development, experimental validation
+  + **Keywords**:Imbalanced learning, Gaussian process, Bayesian methods, machine learning
 
 - **Internship at Digital Media and Intelligent Technology Research Institute**  *2025.1-present*
-  + Vector font watermarking, neural network optimization, robustness improvement
+  + **Keywords**:Digital copyright protection, information hiding and watermarking, deep learning optimization, vector graphics automation design
 
 - **Internship at Post-Quantum Cryptography and Communication Systems Laboratory**  *2023.6-2024.12*
-  + Post-quantum cryptography, hardware design, NTT operations, cryptographic algorithm testing
+  + **Keywords**:Post-quantum cryptographic algorithms, chip design, hardware implementation, test platform development
 
 
 
