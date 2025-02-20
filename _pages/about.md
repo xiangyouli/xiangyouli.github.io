@@ -54,18 +54,18 @@ If you share similar interests or simply want to connect, feel free to **reach o
 
 # 🏆 Competition Awards
 - **National Second Prize**: 2024 National College Student Computer Systems Capability Competition - CPU Design Contest (Loongson Cup), August 2024 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/2024loongson.jpg)
-- **National Second Prize (Silver Medal)**: 2023 China Collegiate Programming Contest (CCPC), Silver Medal, October 2023
-- **National Second Prize (Silver Medal)**: 2022 China Collegiate Programming Contest (CCPC), Silver Medal, November 2022
-- **National Merit Award**: 2022 International Collegiate Programming Contest Asia Regional (ICPC Shenyang), November 2022
-- **National Merit Award**: 2024 China Collegiate Computer Competition - Team Programming Ladder Contest, April 2024
-- **National Merit Award**: 2023 China Collegiate Computer Competition - Team Programming Ladder Contest, May 2023
-- **Provincial Third Prize**: 2024 China Collegiate Computer Design Competition - Central South Region, June 2024
-- **Provincial Third Prize**: 2024 Blue Bridge Cup Hubei Regional C/C++ Programming University Group A, April 2024
-- **Provincial Third Prize**: 2023 Hubei Province College Student Programming Contest (CCPC Hubei Provincial Contest), Bronze Medal, April 2023
-- **Provincial Third Prize**: 2023 Blue Bridge Cup Hubei Regional C/C++ Programming University Group A, April 2023
-- **University First Prize (First Place)**: 2023 Wuhan University Cybersecurity Knowledge Competition, October 2023
-- **University Third Prize (Bronze Medal)**: 2022 Wuhan University Freshman Programming Contest, October 2022
-- **University Top Four**: 2023 Wuhan University RISC-V Application Innovation Contest, December 2023
+- **National Second Prize (Silver Medal)**: 2023 China Collegiate Programming Contest (CCPC), Silver Medal, October 2023 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/CCPC2023NSCQ.pdf)
+- **National Second Prize (Silver Medal)**: 2022 China Collegiate Programming Contest (CCPC), Silver Medal, November 2022 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/CCPC2022GCQ.pdf)
+- **National Merit Award**: 2022 International Collegiate Programming Contest Asia Regional (ICPC Shenyang), November 2022 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/icpcshenyang.png)
+- **National Merit Award**: 2024 China Collegiate Computer Competition - Team Programming Ladder Contest, April 2024 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/2024tianti.png)
+- **National Merit Award**: 2023 China Collegiate Computer Competition - Team Programming Ladder Contest, May 2023 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/2024tianti.png)
+- **Provincial Third Prize**: 2024 China Collegiate Computer Design Competition - Central South Region, June 2024 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/2024jishe.png)
+- **Provincial Third Prize**: 2024 Blue Bridge Cup Hubei Regional C/C++ Programming University Group A, April 2024 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/2024lanqiao.jpg)
+- **Provincial Third Prize**: 2023 Hubei Province College Student Programming Contest (CCPC Hubei Provincial Contest), Bronze Medal, April 2023 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/CCPC2023SSWH.jpg)
+- **Provincial Third Prize**: 2023 Blue Bridge Cup Hubei Regional C/C++ Programming University Group A, April 2023 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/2023lanqiao.pdf)
+- **University First Prize (First Place)**: 2023 Wuhan University Cybersecurity Knowledge Competition, October 2023 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/wangluoanquan.png)
+- **University Third Prize (Bronze Medal)**: 2022 Wuhan University Freshman Programming Contest, October 2022 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/2022xinshengsai.jpg)
+- **University Top Four**: 2023 Wuhan University RISC-V Application Innovation Contest, December 2023 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/riscv.jpg)
 
 
 # 🎖 Scholarships and Honors
