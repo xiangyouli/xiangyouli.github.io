@@ -45,7 +45,14 @@ If you share similar interests or simply want to connect, feel free to **reach o
   + **Personal Contributions**:
     * **Experimental Code and Parameter Tuning**: Wrote code for some control experiments, adjusted model parameters, and compared performance metrics (MSE, MAE) with mainstream methods, ensuring the reproducibility and reliability of the results.
     * **Paper Writing and Data Visualization**: Contributed to writing the appendix of the paper and refined parts of the main content. Ran mainstream datasets and created experimental figures, ensuring the data presented in the paper was clear and met academic standards.
-  + **Project Outcome**:[Second Author] The paper "Probabilistic Feature Smoothed Gaussian Process for Imbalanced Regression" was submitted to ICLR 2025 (withdrawn submission).
+  + **Project Outcome**:[Second Author] The paper "Probabilistic Feature Smoothed Gaussian Process for Imbalanced Regression" was submitted to **ICLR 2025** (withdrawn submission).
+
+- **Attention-free Sequence Prediction Modeling for Offline Embodied Learning** *2025.3*
+  + **Keyword**s: Offline reinforcement learning, Sequence modeling, Attention dispersion
+  + **Introduction**: This research treats offline reinforcement learning as a sequence modeling task. By analyzing the state-action-reward distribution mismatch in Decision Transformers leading to attention dispersion, we propose a hierarchical framework that combines a Token Merger and a parameter-free average-pooling Token Mixer, achieving dual improvements in both performance and computational efficiency.
+  + **Personal Contributions**:
+    * Responsible for writing the appendix and refining theoretical proofs, ensuring that the overall content meets academic standards.
+  + **Project Outcome**: [Undergraduate Second Author] The paper "Less is More: an Attention-free Sequence Prediction Modeling for Offline Embodied Learning" has been submitted to **ICCV 2025**.
 
 - **Internship at Digital Media and Intelligent Technology Research Institute**  *2025.1-present*
   + **Keywords**:Digital copyright protection, information hiding and watermarking, deep learning optimization, vector graphics automation design
