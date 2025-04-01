@@ -116,6 +116,7 @@ If you share similar interests or simply want to connect, feel free to **reach o
 </div>
 
 - **Teaching Assistant, Computer Organization and Architecture** *Spring 2025 - Ongoing*
+  Participated in a semester-long assisted teaching role as a teaching assistant. Introduced and modified experimental projects from other universities in order to design experiments that were deeply integrated with the course content; graded course assignments on time, answered undergraduate questions on duty and assisted in debugging experimental code.
 
 - **Teaching Assistant, Digital Logic and Digital Circuits** *Spring 2024*<br>
   I assisted with the course for one semester, where my responsibilities included debugging Verilog lab code, grading the final exams for the entire year, and grading 10 course assignments on time. I also answered over 20 course-related questions from undergraduates, organized and participated in post-class discussions, and helped the instructor manage a class of over 80 students.
