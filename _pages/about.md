@@ -52,7 +52,7 @@ If you share similar interests or simply want to connect, feel free to **reach o
   + **Introduction**: This research treats offline reinforcement learning as a sequence modeling task. By analyzing the state-action-reward distribution mismatch in Decision Transformers leading to attention dispersion, we propose a hierarchical framework that combines a Token Merger and a parameter-free average-pooling Token Mixer, achieving dual improvements in both performance and computational efficiency.
   + **Personal Contributions**:
     * Responsible for writing the appendix and refining theoretical proofs, ensuring that the overall content meets academic standards.
-  + **Project Outcome**: [Undergraduate Second Author] The paper "Less is More: an Attention-free Sequence Prediction Modeling for Offline Embodied Learning" has been submitted to **ICCV 2025**.
+  + **Project Outcome**: [Undergraduate Second Author] The paper "Less is More: an Attention-free Sequence Prediction Modeling for Offline Embodied Learning" has been submitted to **NeurIPS 2025**.
 
 - **Internship at Digital Media and Intelligent Technology Research Institute**  *2025.1-present*
   + **Keywords**:Digital copyright protection, information hiding and watermarking, deep learning optimization, vector graphics automation design
