@@ -20,7 +20,7 @@ redirect_from:
 
 Hi, there! 👋
 
-I’m **Heyue Li(李禾越)**, currently a third-year undergraduate student at the **[School of Computer Science](https://cs.whu.edu.cn/)**, **[Wuhan University (WHU)](https://www.whu.edu.cn/)**, where I am pursuing my Bachelor’s degree in **Computer Science and Technology**. You can find my Curriculum Vitae(CV) here: [[Heyue Li's CV]](https://yhish-yhish.github.io/yhish.github.io/assets/CV.pdf). 🏫
+I’m **Heyue Li(李禾越)**, currently a third-year undergraduate student at the **[School of Computer Science](https://cs.whu.edu.cn/)**, **[Wuhan University (WHU)](https://www.whu.edu.cn/)**, where I am pursuing my Bachelor’s degree in **Computer Science and Technology**. You can find my Curriculum Vitae(CV) here: [[Heyue Li's CV]](https://yhish-yhish.github.io/assets/CV.pdf). 🏫
 
 My academic interests primarily lie in the areas of **computer architecture**, **integrated circuit(IC) design**, **algorithm design and optimization**(particularly in AI-related projects). I am passionate about exploring the boundaries of knowledge in hardware design, working at the intersection of software and hardware to enhance system performance. Through my projects, I have gained hands-on experience in processor microarchitecture design and the design of various chips, concentrating on IC-level design and its coding aspects. Additionally, I have worked on optimizing AI algorithms to improve efficiency and performance, as well as implementing AI-driven solutions in real-world applications. 🛠️
 
@@ -83,19 +83,19 @@ If you share similar interests or simply want to connect, feel free to **reach o
 -->
 
 # 🏆 Competition Awards
-- **National Second Prize**: 2024 National College Student Computer Systems Capability Competition - CPU Design Contest (Loongson Cup), August 2024 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/2024loongson.jpg)
-- **National Silver Medal**: 2023 China Collegiate Programming Contest (CCPC), Silver Medal, October 2023 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/CCPC2023NSCQ.pdf)
-- **National Silver Medal**: 2022 China Collegiate Programming Contest (CCPC), Silver Medal, November 2022 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/CCPC2022GCQ.pdf)
-- **National Honorable Mention**: 2022 International Collegiate Programming Contest Asia Regional (ICPC Shenyang), November 2022 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/icpcshenyang.png)
-- **National Honorable Mention**: 2024 China Collegiate Computer Competition - Team Programming Ladder Contest, April 2024 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/2024tianti.png)
-- **National Honorable Mention**: 2023 China Collegiate Computer Competition - Team Programming Ladder Contest, May 2023 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/2023tianti.png)
-- **Provincial Third Prize**: 2024 China Collegiate Computer Design Competition - Central South Region, June 2024 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/2024jishe.png)
-- **Provincial Third Prize**: 2024 Blue Bridge Cup Hubei Regional C/C++ Programming University Group A, April 2024 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/2024lanqiao.jpg)
-- **Provincial Bronze Medal**: 2023 Hubei Province College Student Programming Contest (CCPC Hubei Provincial Contest), Bronze Medal, April 2023 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/CCPC2023SSWH.jpg)
-- **Provincial Third Prize**: 2023 Blue Bridge Cup Hubei Regional C/C++ Programming University Group A, April 2023 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/2023lanqiao.pdf)
-- **University First Prize (First Place)**: 2023 Wuhan University Cybersecurity Knowledge Competition, October 2023 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/wangluoanquan.png)
-- **University Bronze Medal**: 2022 Wuhan University Freshman Programming Contest, October 2022 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/2022xinshengsai.jpg)
-  <!-- - **University Top Four**: 2023 Wuhan University RISC-V Application Innovation Contest, December 2023 [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/riscv.jpg) -->
+- **National Second Prize**: 2024 National College Student Computer Systems Capability Competition - CPU Design Contest (Loongson Cup), August 2024 [[certification]](https://yhish-yhish.github.io/certification/2024loongson.jpg)
+- **National Silver Medal**: 2023 China Collegiate Programming Contest (CCPC), Silver Medal, October 2023 [[certification]](https://yhish-yhish.github.io/certification/CCPC2023NSCQ.pdf)
+- **National Silver Medal**: 2022 China Collegiate Programming Contest (CCPC), Silver Medal, November 2022 [[certification]](https://yhish-yhish.github.io/certification/CCPC2022GCQ.pdf)
+- **National Honorable Mention**: 2022 International Collegiate Programming Contest Asia Regional (ICPC Shenyang), November 2022 [[certification]](https://yhish-yhish.github.io/certification/icpcshenyang.png)
+- **National Honorable Mention**: 2024 China Collegiate Computer Competition - Team Programming Ladder Contest, April 2024 [[certification]](https://yhish-yhish.github.io/certification/2024tianti.png)
+- **National Honorable Mention**: 2023 China Collegiate Computer Competition - Team Programming Ladder Contest, May 2023 [[certification]](https://yhish-yhish.github.io/certification/2023tianti.png)
+- **Provincial Third Prize**: 2024 China Collegiate Computer Design Competition - Central South Region, June 2024 [[certification]](https://yhish-yhish.github.io/certification/2024jishe.png)
+- **Provincial Third Prize**: 2024 Blue Bridge Cup Hubei Regional C/C++ Programming University Group A, April 2024 [[certification]](https://yhish-yhish.github.io/certification/2024lanqiao.jpg)
+- **Provincial Bronze Medal**: 2023 Hubei Province College Student Programming Contest (CCPC Hubei Provincial Contest), Bronze Medal, April 2023 [[certification]](https://yhish-yhish.github.io/certification/CCPC2023SSWH.jpg)
+- **Provincial Third Prize**: 2023 Blue Bridge Cup Hubei Regional C/C++ Programming University Group A, April 2023 [[certification]](https://yhish-yhish.github.io/certification/2023lanqiao.pdf)
+- **University First Prize (First Place)**: 2023 Wuhan University Cybersecurity Knowledge Competition, October 2023 [[certification]](https://yhish-yhish.github.io/certification/wangluoanquan.png)
+- **University Bronze Medal**: 2022 Wuhan University Freshman Programming Contest, October 2022 [[certification]](https://yhish-yhish.github.io/certification/2022xinshengsai.jpg)
+  <!-- - **University Top Four**: 2023 Wuhan University RISC-V Application Innovation Contest, December 2023 [[certification]](https://yhish-yhish.github.io/certification/riscv.jpg) -->
 
 
 # 🎖 Scholarships and Honors
@@ -107,12 +107,12 @@ If you share similar interests or simply want to connect, feel free to **reach o
 # 👨‍🎓 Student Activities
 🌟Here are some highlights from the events I've participated in.
 <div style="overflow-x: auto; white-space: nowrap;">
-    <img src="https://yhish-yhish.github.io/yhish.github.io/images/guoxue_competition.png" style="display: inline-block; margin-right: 10px; height: 150px;" />
-    <img src="https://yhish-yhish.github.io/yhish.github.io/images/ccpc_chongqing2023.jpg" style="display: inline-block; margin-right: 10px; height: 150px;" />
-    <img src="https://yhish-yhish.github.io/yhish.github.io/images/renwentubu.png" style="display: inline-block; margin-right: 10px; height: 150px;" />
-    <img src="https://yhish-yhish.github.io/yhish.github.io/images/guoxueshe_huanjie.jpg" style="display: inline-block; margin-right: 10px; height: 150px;" />
-    <img src="https://yhish-yhish.github.io/yhish.github.io/images/icpc_shenyang.jpg" style="display: inline-block; margin-right: 10px; height: 150px;" />
-    <img src="https://yhish-yhish.github.io/yhish.github.io/images/jiangxuejin.jpg" style="display: inline-block; margin-right: 10px; height: 150px;" />
+    <img src="https://yhish-yhish.github.io/images/guoxue_competition.png" style="display: inline-block; margin-right: 10px; height: 150px;" />
+    <img src="https://yhish-yhish.github.io/images/ccpc_chongqing2023.jpg" style="display: inline-block; margin-right: 10px; height: 150px;" />
+    <img src="https://yhish-yhish.github.io/images/renwentubu.png" style="display: inline-block; margin-right: 10px; height: 150px;" />
+    <img src="https://yhish-yhish.github.io/images/guoxueshe_huanjie.jpg" style="display: inline-block; margin-right: 10px; height: 150px;" />
+    <img src="https://yhish-yhish.github.io/images/icpc_shenyang.jpg" style="display: inline-block; margin-right: 10px; height: 150px;" />
+    <img src="https://yhish-yhish.github.io/images/jiangxuejin.jpg" style="display: inline-block; margin-right: 10px; height: 150px;" />
 </div>
 
 - **Teaching Assistant, Computer Organization and Architecture** *Spring 2025 - Ongoing*<br>
@@ -121,7 +121,7 @@ If you share similar interests or simply want to connect, feel free to **reach o
 - **Teaching Assistant, Digital Logic and Digital Circuits** *Spring 2024*<br>
   I assisted with the course for one semester, where my responsibilities included debugging Verilog lab code, grading the final exams for the entire year, and grading 10 course assignments on time. I also answered over 20 course-related questions from undergraduates, organized and participated in post-class discussions, and helped the instructor manage a class of over 80 students.
 
-- **President & Academic Minister, LuoYuan Classical Culture Student Club, Wuhan University** *June 2023 - June 2024*  [[certification]](https://yhish-yhish.github.io/yhish.github.io/certification/luoyuan.pdf) <br>
+- **President & Academic Minister, LuoYuan Classical Culture Student Club, Wuhan University** *June 2023 - June 2024*  [[certification]](https://yhish-yhish.github.io/certification/luoyuan.pdf) <br>
   As the project leader for the 31st Wuhan University Club Culture Festival, I organized a university-wide Chinese culture studies knowledge competition. I collaborated with multiple student organizations to co-host events, promoted reforms in the club's structure and activity formats, and organized a full year of club activities. I also led classic literature readings and knowledge-sharing sessions with members, reviewed the club's academic content, and developed strong interdisciplinary thinking, a good sense of teamwork, and excellent organizational and communication skills.
 
 
