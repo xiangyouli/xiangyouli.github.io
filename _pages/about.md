@@ -26,7 +26,7 @@ My academic interests primarily lie in the areas of **computer architecture**, *
 
 Beyond research, I am actively involved in **competitive programming**, particularly in contests such as The International Collegiate Programming Contest (ICPC) and the China Collegiate Programming Contest (CCPC). My participation in these competitions has earned me several national and provincial-level awards, reflecting my strong skills and dedication in problem-solving and algorithmic challenges. 🏅
 
-I am passionate about discovering new solutions and continuously learning. I highly value collaborating with others who share similar academic interests or possess expertise in different fields, as it opens opportunities for mutual growth and knowledge exchange. 💡
+I am passionate about discovering new solutions and continuously learning. In particular, I’m always amazed by the fresh ideas I come across in books and research papers — they spark my curiosity and often lead me to think in entirely new ways. Because of this enthusiasm for new ideas, I highly value collaborating with others who share similar academic interests or possess expertise in different fields, as it opens opportunities for mutual growth and knowledge exchange.💡
 
 If you share similar interests or simply want to connect, feel free to **reach out**! I believe there’s always much to learn, and I’m always open to new ideas and connections. I’m also excited about future opportunities for both personal and professional growth. 🤩
 
