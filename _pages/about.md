@@ -115,7 +115,7 @@ If you share similar interests or simply want to connect, feel free to **reach o
     <img src="https://yhish-yhish.github.io/images/jiangxuejin.jpg" style="display: inline-block; margin-right: 10px; height: 150px;" />
 </div>
 
-- **Teaching Assistant, Computer Organization and Architecture** *Spring 2025 - Ongoing*<br>
+- **Teaching Assistant, Computer Organization and Architecture** *Spring 2025*<br>
   Participated in a semester-long assisted teaching role as a teaching assistant. Introduced and modified experimental projects from other universities in order to design experiments that were deeply integrated with the course content; graded course assignments on time, answered undergraduate questions on duty and assisted in debugging experimental code.
 
 - **Teaching Assistant, Digital Logic and Digital Circuits** *Spring 2024*<br>
