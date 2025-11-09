@@ -5,7 +5,7 @@ main:
   - title: "Research Interests"
     url: "/xiangyouli.github.io/#-research-interests"
 
-    - title: "Prospective Students"
+  - title: "Prospective Students"
     url: "/xiangyouli.github.io/#-prospective-students"
 
   - title: "Education"
@@ -17,10 +17,8 @@ main:
   - title: "Publications"
     url: "/xiangyouli.github.io/#-publications"
 
-  - title: "Honors&Awards"
+  - title: "Honors & Awards"
     url: "/xiangyouli.github.io/#-honors&awards"
 
   - title: "News"
     url: "/xiangyouli.github.io/#-news"
-
-  
