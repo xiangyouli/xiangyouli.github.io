@@ -58,7 +58,12 @@ Interested students are welcome to contact me by email with a brief CV and a sho
 - *2004.02 - 2006.06*, **Lecturer**, School of Laser Science and Engineering, Huazhong University of Science and Technology (HUST), China.  
 
 # 📝 Publications
-- [[]]()
+<!--
+- [[111]]()
+-->
+
+- 111
+- 
 <!--
 方括号里写标题，圆括号里写链接，后面可以附上作者和对应的期刊
 最后可以加一句：Full list is available on Google Scholar / ORCID / etc.
@@ -67,6 +72,7 @@ Interested students are welcome to contact me by email with a brief CV and a sho
 
 # 🎖 Honors&Awards
 - *2024.11* **Scholarship**: 111
+- *123* **111**
 
 # 🔥 News
 - *2023.10* : 111
