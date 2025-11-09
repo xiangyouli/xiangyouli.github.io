@@ -24,6 +24,13 @@ His research focuses on **laser additive manufacturing (3D printing), laser micr
 
 Dr. Li has published over 200 scientific papers, including more than 100 as first or corresponding author in SCI-indexed journals. He holds over 70 granted Chinese invention patents, several U.S. patents, and multiple software copyrights. His research achievements have been recognized with the National Science and Technology Progress Award and other provincial-level honors, and featured in major national media outlets such as Xinhua News and People’s Daily.
 
+# 💡 Research Interests
+- laser additive manufacturing (3D printing)
+- laser micro/nano fabrication
+- laser-induced breakdown spectroscopy (LIBS)
+
+# 🧑‍🎓 Prospective Students
+
 I am looking for highly motivated master’s and PhD students. Applicants with the following qualities will be given priority:
 
 - **Strong interest in scientific research**, and willingness to work on challenging problems.
@@ -40,29 +47,30 @@ Interested students are welcome to contact me by email with a brief CV and a sho
 
 
 # 📖 Education
-- *2001.09 - 2005.06*, Ph.D. in Engineering (Physical Electronics), Huazhong University of Science and Technology (HUST), China. 
-- *1998.09 - 2001.06*, Master of Engineering, Huazhong University of Science and Technology (HUST), China. 
-- *1994.06 - 1998.07*, Bachelor of Engineering, Huazhong University of Science and Technology (HUST), China. 
+- *2001.09 - 2005.06*, **Ph.D. in Engineering (Physical Electronics)**, Huazhong University of Science and Technology (HUST), China. 
+- *1998.09 - 2001.06*, **Master of Engineering**, Huazhong University of Science and Technology (HUST), China. 
+- *1994.06 - 1998.07*, **Bachelor of Engineering**, Huazhong University of Science and Technology (HUST), China. 
 
 # 💼 Experience
-- *2011.11 - Present*, Research Professor, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology (HUST), China.  
-- *2009.07 - 2011.07*, JSPS Research Fellow (Special Researcher), Nano-System Research Department, National Institute of Advanced Industrial Science and Technology (AIST), Japan.  
-- *2007.11 - 2012.10*, Associate Professor, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology (HUST), China.  
-- *2004.02 - 2006.06*, Lecturer, School of Laser Science and Engineering, Huazhong University of Science and Technology (HUST), China.  
-
-
-
-# 🔥 News
-- *2023.10* : 111
+- *2011.11 - Present*, **Research Professor**, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology (HUST), China.  
+- *2009.07 - 2011.07*, **JSPS Research Fellow (Special Researcher)**, Nano-System Research Department, National Institute of Advanced Industrial Science and Technology (AIST), Japan.  
+- *2007.11 - 2012.10*, **Associate Professor**, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology (HUST), China.  
+- *2004.02 - 2006.06*, **Lecturer**, School of Laser Science and Engineering, Huazhong University of Science and Technology (HUST), China.  
 
 # 📝 Publications
 - [[]]()
 <!--
 方括号里写标题，圆括号里写链接，后面可以附上作者和对应的期刊
+最后可以加一句：Full list is available on Google Scholar / ORCID / etc.
 -->
 
 
-
-# 🎖 Honors
+# 🎖 Honors&Awards
 - *2024.11* **Scholarship**: 111
+
+# 🔥 News
+- *2023.10* : 111
+
+
+
 
