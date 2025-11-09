@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Heyue Li's Homepage"
-description              : "Undergraduate student at Wuhan University."
-repository               : "https://github.com/YHISH-yhish/yhish.github.io"
+title                    : "Li Xiangyou's Homepage"
+description              : "Professor at WNLO, Huazhong University of Science and Technology(HUST)."
+repository               : "https://github.com/xiangyouli/xiangyouli.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Heyue Li(李禾越)"
-  avatar           : "images/1.png"
-  bio              : "Wuhan University"
+  name             : "Xiangyou Li(李祥友)"
+  # avatar           : "images/1.png"
+  bio              : "Huazhong University of Science and Technology(HUST)"
   location         : "Wuhan, Hubei, China"
   employer         :
   pubmed           : 
   # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "liheyue@whu.edu.cn"
+  email            : "xyli@mail.hust.edu.cn"
   # researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YHISH-yhish"
+  github           : "xiangyouli"
   google_plus      :
   keybase          :
   instagram        :
