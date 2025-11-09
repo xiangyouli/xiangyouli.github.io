@@ -1,24 +1,24 @@
 main:
   - title: "About Me"
-    url: "/xiangyouli.github.io/#about-me"
+    url: "#about-me"
 
   - title: "Research Interests"
-    url: "/xiangyouli.github.io/#-research-interests"
+    url: "#-research-interests"
 
   - title: "Prospective Students"
-    url: "/xiangyouli.github.io/#-prospective-students"
+    url: "#-prospective-students"
 
   - title: "Education"
-    url: "/xiangyouli.github.io/#-education"
+    url: "#-education"
 
   - title: "Experience"
-    url: "/xiangyouli.github.io/#-experience"
+    url: "#-experience"
 
   - title: "Publications"
-    url: "/xiangyouli.github.io/#-publications"
+    url: "#-publications"
 
   - title: "Honors & Awards"
-    url: "/xiangyouli.github.io/#-honors&awards"
+    url: "#-honors&awards"
 
   - title: "News"
-    url: "/xiangyouli.github.io/#-news"
+    url: "#-news"
