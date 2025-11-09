@@ -1,35 +1,26 @@
 main:
   - title: "About Me"
-    url: "/yhish.github.io/#about-me"
+    url: "/xiangyouli.github.io/#about-me"
 
-  - title: "Research"
-    url: "/yhish.github.io/#-research"
+  - title: "Research Interests"
+    url: "/xiangyouli.github.io/#-Research Interests"
 
-  - title: "Educations"
-    url: "/yhish.github.io/#-educations"
+    - title: "Prospective Students"
+    url: "/xiangyouli.github.io/#-Prospective Students"
 
-  - title: "Skills"
-    url: "/yhish.github.io/#-skills"
+  - title: "Education"
+    url: "/xiangyouli.github.io/#-education"
 
-  - title: "Competition Awards"
-    url: "/yhish.github.io/#-competition-awards"
+  - title: "Experience"
+    url: "/xiangyouli.github.io/#-Experience"
 
-  - title: "Scholarships and Honors"
-    url: "/yhish.github.io/#-scholarships-and-honors"
+  - title: "Publications"
+    url: "/xiangyouli.github.io/#-Publications"
 
-  - title: "Student Activities"
-    url: "/yhish.github.io/#-student-activities"
+  - title: "Honors&Awards"
+    url: "/xiangyouli.github.io/#-Honors&Awards"
+
+  - title: "News"
+    url: "/xiangyouli.github.io/#-News"
 
   
-
-  # - title: "Useful Links"
-  #   url: "/#-useful-links"
-
-  # - title: "Internships"
-  #   url: "/#-internships"
-
-  # - title: "News"
-  # url: "/#-news"
-
-  #- title: "Publications"
-  # url: "/#-publications"
