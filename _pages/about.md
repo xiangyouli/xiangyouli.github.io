@@ -18,19 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi, there! 👋
+Dr. Li received his Ph.D. in Physical Electronics from Huazhong University of Science and Technology in 2005. From 2009 to 2011, he worked as a JSPS Fellow at the National Institute of Advanced Industrial Science and Technology (AIST), Japan. He is currently a Research Professor at the Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology.
 
-I’m **Heyue Li(李禾越)**, currently a third-year undergraduate student at the **[School of Computer Science](https://cs.whu.edu.cn/)**, **[Wuhan University (WHU)](https://www.whu.edu.cn/)**, where I am pursuing my Bachelor’s degree in **Computer Science and Technology**. You can find my Curriculum Vitae(CV) here: [[Heyue Li's CV]](https://yhish-yhish.github.io/assets/CV.pdf). 🏫
+His research focuses on laser additive manufacturing (3D printing), laser micro/nano fabrication, and laser-induced breakdown spectroscopy (LIBS). In recent years, he has made significant contributions to the development of integrated spectroscopy analysis systems, real-time detection algorithms, and intelligent control software. His team has developed a series of proprietary instruments and software platforms for elemental analysis and laser processing, which have been successfully applied in aerospace and microelectronics industries.
 
-My academic interests primarily lie in the areas of **computer architecture**, **integrated circuit(IC) design**, **algorithm design and optimization**(particularly in AI-related projects). I am passionate about exploring the boundaries of knowledge in hardware design, working at the intersection of software and hardware to enhance system performance. Through my projects, I have gained hands-on experience in processor microarchitecture design and the design of various chips, concentrating on IC-level design and its coding aspects. Additionally, I have worked on optimizing AI algorithms to improve efficiency and performance, as well as implementing AI-driven solutions in real-world applications. 🛠️
+Dr. Li has published over 200 scientific papers, including more than 100 as first or corresponding author in SCI-indexed journals. He holds over 70 granted Chinese invention patents, several U.S. patents, and multiple software copyrights. His research achievements have been recognized with the National Science and Technology Progress Award and other provincial-level honors, and featured in major national media outlets such as Xinhua News and People’s Daily.
+再加一句招生需求
 
-Beyond research, I am actively involved in **competitive programming**, particularly in contests such as The International Collegiate Programming Contest (ICPC) and the China Collegiate Programming Contest (CCPC). My participation in these competitions has earned me several national and provincial-level awards, reflecting my strong skills and dedication in problem-solving and algorithmic challenges. 🏅
-
-I am passionate about discovering new solutions and continuously learning. In particular, I’m always amazed by the fresh ideas I come across in books and research papers — they spark my curiosity and often lead me to think in entirely new ways. Because of this enthusiasm for new ideas, I highly value collaborating with others who share similar academic interests or possess expertise in different fields, as it opens opportunities for mutual growth and knowledge exchange.💡
-
-If you share similar interests or simply want to connect, feel free to **reach out**! I believe there’s always much to learn, and I’m always open to new ideas and connections. I’m also excited about future opportunities for both personal and professional growth. 🤩
-
-# 🎓 Research
+<!-- # 🎓 Research
 - **Processor Microarchitecture Design Based on LoongArch32R Instruction Set Architecture**  *2024.3-2024.8* [[project]](https://github.com/dzh314/BL-LA32R))
   + **Keywords**:Computer architecture, processor design, Verilog, FPGA, LoongArch, microarchitecture optimization
   + **Introduction**:This project designed and implemented a high-performance processor based on the LoongArch32R instruction set, featuring a seven-stage pipeline with a frequency of up to 100MHz, capable of running Linux. The project required efficient processor microarchitecture design skills and implementation on an actual FPGA platform for validation. The final result matched the best historical performance of Wuhan University.
@@ -71,6 +66,7 @@ If you share similar interests or simply want to connect, feel free to **reach o
 - **Programming Skills**: Proficient in **C/C++**, **Verilog**, and **Python**. Experienced in algorithm competitions and computer hardware design projects. Additionally, skilled in data processing, deep learning model training, and optimization.
 - **English Proficiency**: Successfully passed the **CET-4** and **CET-6** exams with good scores. Experienced in writing academic papers in English.
 - **Development Tools**: Experienced with **VS Code**, **Xilinx Vivado**, **PyCharm**, **Visual Studio**, **LATEX** (Overleaf), and **Git**.
+-->
 
 <!--
 # 🔥 News
@@ -82,6 +78,7 @@ If you share similar interests or simply want to connect, feel free to **reach o
 *前面的世界，以后再来探索吧*
 -->
 
+<!--
 # 🏆 Competition Awards
 - **National Second Prize**: 2024 National College Student Computer Systems Capability Competition - CPU Design Contest (Loongson Cup), August 2024 [[certification]](https://yhish-yhish.github.io/certification/2024loongson.jpg)
 - **National Silver Medal**: 2023 China Collegiate Programming Contest (CCPC), Silver Medal, October 2023 [[certification]](https://yhish-yhish.github.io/certification/CCPC2023NSCQ.pdf)
@@ -96,14 +93,16 @@ If you share similar interests or simply want to connect, feel free to **reach o
 - **University First Prize (First Place)**: 2023 Wuhan University Cybersecurity Knowledge Competition, October 2023 [[certification]](https://yhish-yhish.github.io/certification/wangluoanquan.png)
 - **University Bronze Medal**: 2022 Wuhan University Freshman Programming Contest, October 2022 [[certification]](https://yhish-yhish.github.io/certification/2022xinshengsai.jpg)
   <!-- - **University Top Four**: 2023 Wuhan University RISC-V Application Innovation Contest, December 2023 [[certification]](https://yhish-yhish.github.io/certification/riscv.jpg) -->
-
-
+  
+<!--
 # 🎖 Scholarships and Honors
 - *2024.11* **Wuhan University Special Scholarship – AEON Scholarship**: ￥8000, awarded to 25 students across four colleges
 - *2024.10* **Wuhan University Merit Student Award**: Recognized as one of the top students at the university
 - Other: **Wuhan University International Exchange Scholarship** and **Various Discipline Competition Scholarships**
 - Cumulative total of over ￥30,000
+-->
 
+<!--
 # 👨‍🎓 Student Activities
 🌟Here are some highlights from the events I've participated in.
 <div style="overflow-x: auto; white-space: nowrap;">
@@ -123,7 +122,7 @@ If you share similar interests or simply want to connect, feel free to **reach o
 
 - **President & Academic Minister, LuoYuan Classical Culture Student Club, Wuhan University** *June 2023 - June 2024*  [[certification]](https://yhish-yhish.github.io/certification/luoyuan.pdf) <br>
   As the project leader for the 31st Wuhan University Club Culture Festival, I organized a university-wide Chinese culture studies knowledge competition. I collaborated with multiple student organizations to co-host events, promoted reforms in the club's structure and activity formats, and organized a full year of club activities. I also led classic literature readings and knowledge-sharing sessions with members, reviewed the club's academic content, and developed strong interdisciplinary thinking, a good sense of teamwork, and excellent organizational and communication skills.
-
+-->
 
 <!--
 # 🎡 Activities
